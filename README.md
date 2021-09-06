@@ -13,6 +13,6 @@ Sou Desenvolvedora Full Stack Java Júnior.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaoliveiragithub&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Profile views](https://gpvc.arturio.dev/larissaoliveiragithub)  
-![Snake animation](https://github.com/larissaoliveiragithub/larissaoliveiragithub/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
