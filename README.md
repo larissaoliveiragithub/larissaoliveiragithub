@@ -1,4 +1,4 @@
-### Hi there 👋, Olá, eu sou a Larissa Oliveira!
+### Olá 👋, eu sou a Larissa Oliveira!
 ![]([Link](https://https://github.com/larissaoliveiragithub))
 
 Sou Desenvolvedora Full Stack Java Júnior.
@@ -13,12 +13,9 @@ Sou Desenvolvedora Full Stack Java Júnior.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larissaoliveiragithub&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=larissaoliveiragithub)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=larissaoliveiragithub)  
 
 ![Profile views](https://gpvc.arturio.dev/larissaoliveiragithub)  
-
- 
-
 
 
  
