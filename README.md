@@ -14,5 +14,3 @@ Sou Desenvolvedora Full Stack Java Júnior.
 
 ![Profile views](https://gpvc.arturio.dev/larissaoliveiragithub)  
 
-
-
