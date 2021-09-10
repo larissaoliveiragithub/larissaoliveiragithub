@@ -1,7 +1,7 @@
 ### Olá 👋, eu sou a Larissa Oliveira!
 ![]([Link](https://https://github.com/larissaoliveiragithub))
 
-Sou Desenvolvedora Full Stack Java Júnior.
+Sou Desenvolvedora Full Stack Java.
 
 
 
